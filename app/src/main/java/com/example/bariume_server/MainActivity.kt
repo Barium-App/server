@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         private const val PERMISSION_REQUEST_CODE = 123
-        private const val CLIENT_PHONE_NUMBER = "+989029518712" // Replace with actual client number
+        private const val CLIENT_PHONE_NUMBER = "+989361720429" // Replace with actual client number
         private const val PASSWORD = "123"
     }
 
